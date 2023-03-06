@@ -1,0 +1,8 @@
+Resolusi 2023 Front End Developer
+1. HTML
+2. CSS
+3. Flexbox & Grid
+4. Bootstrap
+5. Javascript Dasar
+6. DOM Javascript
+7. Git
