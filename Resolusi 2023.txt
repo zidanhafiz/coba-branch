@@ -12,3 +12,8 @@ Resolusi 2023 Front End Developer
   ^ React
   ^ Vue
   ^ Angular
+  
+Belajar Back End Developer
+1. PHP
+2. Node JS
+3. SQL
