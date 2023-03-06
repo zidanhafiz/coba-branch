@@ -6,3 +6,9 @@ Resolusi 2023 Front End Developer
 5. Javascript Dasar
 6. DOM Javascript
 7. Git
+8. Javascript Lanjutan (async, fetch dll)
+9. Rest API
+10. Framework
+  ^ React
+  ^ Vue
+  ^ Angular
